@@ -3,6 +3,10 @@ body {
   margin: 2rem;
 }
 
+p { 
+  font-family: 'Courier New', Courier, monospace;
+}
+
 .main-centered {
   margin-left: auto;
   margin-right: auto;
